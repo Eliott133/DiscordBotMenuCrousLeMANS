@@ -1,0 +1,101 @@
+[
+    {
+        "nom_ru": "Resto U’ Bartholdi",
+        "dejeuner": [
+            {
+                "date": "Menu du vendredi 18 octobre 2024",
+                "menu": [
+                    {
+                        "starter": [
+                            "Bol: jambon; œuf et emmenthal",
+                            "Macédoine mayonnaise",
+                            "Salade taboulé",
+                            "Œuf dur mimosa"
+                        ],
+                        "main_courses": [
+                            "Pâte penne régate complet bio sauce saumon",
+                            "Saucisse Chipolatas aux herbes",
+                            "Végétarien:",
+                            "-Chili égrène de seitan bio"
+                        ],
+                        "dessert": [
+                            "Banane (fruit)",
+                            "Yaourt Flan nappé de Caramel",
+                            "Eclair Chocolat",
+                            "Entremet semoule",
+                            "Fruit sirop cocktail",
+                            "Pomme (fruit)"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nom_ru": "Resto U’ Vaurouzé",
+        "dejeuner": [
+            {
+                "date": "Menu du lundi 21 octobre 2024",
+                "menu": [
+                    {
+                        "starter": [
+                            "Macédoine mayonnaise",
+                            "Tomate vinaigrette",
+                            "Sal pdt lardon",
+                            "Œuf dur mayonnaise",
+                            "Porc pate campagne",
+                            "Quiche individuelle"
+                        ],
+                        "main_courses": [
+                            "Merlu",
+                            "Sauce crème d'herbe",
+                            "Grignotte mexicaine (Poulet)",
+                            "Riz pilaw",
+                            "Petits pois carotte tomate",
+                            "Veggie",
+                            "Pois chiches et choux fleur"
+                        ],
+                        "dessert": [
+                            "Yaourt aux fruits",
+                            "Compote pomme/banane",
+                            "Entremets crème chocolat",
+                            "Pomme",
+                            "Flan",
+                            "Beignet chocolat"
+                        ]
+                    }
+                ]
+            },
+            {
+                "date": "Menu du vendredi 18 octobre 2024",
+                "menu": [
+                    {
+                        "starter": [
+                            "Piémontaise",
+                            "Concombre à la vinaigrette",
+                            "Pâté foie",
+                            "Terrine aux deux poissons",
+                            "Sandwichs au choix (poulet / thon / jambon )"
+                        ],
+                        "main_courses": [
+                            "Paupiette de volaille sauce du sud",
+                            "Escalope de porc sauce charcutière",
+                            "Riz pilaw",
+                            "Poêlée méridionale",
+                            "Veggie",
+                            "Dahl coco tomate concassé"
+                        ],
+                        "dessert": [
+                            "Yaourt bio aromatisé fraise",
+                            "Formage blanc",
+                            "Compote pomme/pêche",
+                            "Crème brulée",
+                            "Fruits",
+                            "Far breton"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

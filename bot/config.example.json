@@ -1,0 +1,8 @@
+{
+	"token": "YOUR_BOT_TOKEN",
+	"clientId": "YOUR_CLIENT_ID",
+	"guildId": "YOUR_GUILD_ID",
+	"bartholdiRoleId": "ROLE_RESTAURANT_1",
+	"vaurouzeRoleId": "ROLE_RESTAURANT_2",
+	"channelId": "YOUR_CHANNEL_ID"
+}

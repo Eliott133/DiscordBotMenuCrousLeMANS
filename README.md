@@ -52,6 +52,18 @@ pip install -r requirements.txt
 python app.py
 ```
 
+#### About Flask API
+
+##### Endpoint
+
+This API has three Endpoint:
+
+- **/get-menu** : This endpoint allows you to retrieve the menu of the day for a given restaurant.
+- **/save-menu** : This endpoint allows you to save the new menu of the day for a specific restaurant.
+- **/get-history-menu** : This endpoint allows you to consult the history of saved menus for a given restaurant. It returns a list of previously saved menus, with the corresponding date.
+
+These routes return a JSON format in response.
+
 ## Start the bot
 
 Configure a cron job on your server from Monday to Friday before the menus appear by running this command:
